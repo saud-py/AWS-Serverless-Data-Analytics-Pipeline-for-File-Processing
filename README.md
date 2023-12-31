@@ -37,8 +37,3 @@ This seamless data odyssey is powered by AWS Transfer Family, ensuring secure, t
 
 ### SQS Event Notification & Snowpipe Delight
 - Set up SQS event notifications to trigger Snowpipe for real-time data ingestion into Snowflake's internal tables. Please consult Snowflake's documentation for detailed guidance on configuring Snowpipe and managing real-time data ingestion.
-
----
-
-This readme.md file provides an overview of the AWS Serverless Data Analytics Pipeline for File Processing, including the stages involved and high-level commands for each stage. For detailed implementation guidance and specific commands, please refer to the relevant AWS and Snowflake documentation.
-```  
