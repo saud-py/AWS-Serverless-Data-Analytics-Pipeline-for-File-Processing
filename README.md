@@ -1,5 +1,8 @@
 # AWS-Serverless-Data-Analytics-Pipeline-for-File-Processing
 
+![AWS-Serverless-Data-Analytics-Pipeline-for-File-Processing](https://github.com/saud-py/AWS-Serverless-Data-Analytics-Pipeline-for-File-Processing/assets/57790931/c1ef8a8b-e354-4fac-8ec7-b823b4d8f60a)
+
+
 In today's tech-savvy world, enterprises and organizations thrive on efficient and transparent file-transfer management. This project entails a streamlined, serverless data pipeline that seamlessly orchestrates file transfers, transformations, and ingestion into your cloud ecosystem.
 
 ## Overview of Stages
